@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/20200529_4"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Java-WebSocket-1.5.1" value="project"/>
+		<level name="json_simple-1.1" value="project"/>
+		<level name="slf4j-api-2.0.0-alpha1" value="project"/>
+	</levels>
+</component>

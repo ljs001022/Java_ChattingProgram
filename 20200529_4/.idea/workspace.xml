@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="20200529_4:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eddea2bb-c7a4-48e6-b3de-f4e83dfb1806" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cYoh84WyOEFAXqDz7frU3hAh4K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="208" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/slf4j-api-2.0.0-alpha1.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\BACK\Java\intelli\20200529_4\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.daelim.Main" />
+      <module name="20200529_4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eddea2bb-c7a4-48e6-b3de-f4e83dfb1806" name="Default Changelist" comment="" />
+      <created>1590715003501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590715003501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1591325642517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591325642517" />
+    <state x="315" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592892744427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="315" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592892744427" />
+    <state x="301" y="196" key="FileChooserDialogImpl" timestamp="1592898334917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="301" y="196" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592898334917" />
+    <state width="933" height="229" key="GridCell.Tab.0.bottom" timestamp="1592895022109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592895022109" />
+    <state width="933" height="229" key="GridCell.Tab.0.center" timestamp="1592895022109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592895022109" />
+    <state width="933" height="229" key="GridCell.Tab.0.left" timestamp="1592895022109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592895022109" />
+    <state width="933" height="229" key="GridCell.Tab.0.right" timestamp="1592895022109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592895022109" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1592892806441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592892806441" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1590718835703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1590718835703" />
+    <state x="49" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1590719492978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="49" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590719492978" />
+  </component>
+</project>

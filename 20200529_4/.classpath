@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java-WebSocket-1.5.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json_simple-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j-api-2.0.0-alpha1"/>
+	<classpathentry kind="output" path="out/production/20200529_4"/>
+</classpath>

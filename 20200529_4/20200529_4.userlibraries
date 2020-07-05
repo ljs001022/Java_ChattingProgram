@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java-WebSocket-1.5.1">
+    <archive path="E:/BACK/Java/intelli/20200529_4/libs/Java-WebSocket-1.5.1.jar" />
+  </library>
+  <library name="json_simple-1.1">
+    <archive path="E:/BACK/Java/intelli/20200529_4/libs/json_simple-1.1.jar" />
+  </library>
+  <library name="slf4j-api-2.0.0-alpha1">
+    <archive path="E:/BACK/Java/intelli/20200529_4/libs/slf4j-api-2.0.0-alpha1.jar" />
+  </library>
+</eclipse-userlibraries>
+
